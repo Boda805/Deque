@@ -1,0 +1,4 @@
+This is my implementation of the deque data structure using a doubly linked list. Challenge found in Algorithms course from Princeton.
+
+Link:
+https://online.princeton.edu/node/201
